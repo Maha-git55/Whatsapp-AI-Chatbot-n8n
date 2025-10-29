@@ -50,16 +50,6 @@ A powerful WhatsApp chatbot integrated with Google Gemini AI using n8n workflow 
 - **WhatsApp Business API**: Messaging
 - **Ngrok**: Secure tunneling
 
-## 📸 Screenshots
-
-| Setup Phase | Screenshot |
-|-------------|------------|
-| Local Workflow Error | `local-workflow-error.jpg` |
-| Ngrok Tunnel Success | `ngrok-tunnel-success.jpg` |
-| WhatsApp Trigger Config | `whatsapp-trigger-config.jpg` |
-| AI Agent Configuration | `ai-agent-config.jpg` |
-| Complete Workflow | `complete-workflow.jpg` |
-| Successful Test | `test-message-success.jpg` |
 
 ## 🎯 Usage
 
